@@ -1,5 +1,5 @@
 # simple-neural-ignition-model
-SNIM. A basic cellular automaton based on some spurious alien brain. Blog post explanation coming soon! 
+SNIM. A basic cellular automaton based on some spurious alien brain. Blog post explanation [here](http://mormerod.com/thoughts/2017/05/22/diy-cellular-automata)! 
 
 Example usage:
 ```
